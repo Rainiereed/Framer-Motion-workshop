@@ -1,0 +1,16 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  background-color: #f3f0ed;
+  height: 100vh;
+  width: 100vw;
+}
+
+h2 {
+  font-weight: normal;
+  font-size: 36px;
+}
+
+.App-link {
+  color: #61dafb;
+}
