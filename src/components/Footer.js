@@ -16,7 +16,7 @@ export default function Footer() {
   return (
     <StyledFooter>
       <motion.a
-        href="https://github.com/iriselva/microinteractions"
+        href="https://github.com/Rainiereed/Framer-Motion-workshop"
         whileHover={{ textDecoration: "underline" }}
       >
         Git Repository
